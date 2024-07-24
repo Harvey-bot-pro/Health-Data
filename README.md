@@ -1,5 +1,7 @@
 Demographic Analysis of Patients Registered at a GP Practice
 Project Overview
+
+
 This project aims to analyze the demographic data of patients registered at a GP practice, focusing on the age and gender distribution of patients. The analysis includes various visualizations to illustrate significant trends and patterns in the data.
 
 Dataset Description
